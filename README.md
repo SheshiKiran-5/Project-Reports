@@ -2,7 +2,7 @@
 There repository consists documents related to my projects. For project files(programming files) , please mail me at sheshikiran.mandla89@gmail.com
 YOUTUBE LINKS:
 
-➢ (Animated Lecture) 
+➢ (Animated Lecture on Python Conditional Statements) 
 
 Link-1: https://youtu.be/QTYIbAFLE3U?feature=shared
 
